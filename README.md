@@ -1,5 +1,10 @@
-# 💫 About Me:
-🎓 I'm a Software Engineering student passionate about software development, problem-solving, and building practical projects.<br><br>🔭 **I'm currently working on:** MERN Stack projects and improving my full-stack development skills.<br><br>👯 **I'm looking to collaborate on:** Web development, Java, and open-source projects.<br><br>🤝 **I'm looking for help with:** Building scalable full-stack applications and improving my development workflow.<br><br>🌱 **I'm currently learning:** React, Node.js, Express.js, MongoDB, and modern web development.<br><br>💬 **Ask me about:** Java, OOP, C++, DSA, JavaScript, MySQL, and Web Development.<br><br>⚡ **Fun fact:** I enjoy turning ideas into working projects and learning something new through every project I build.
+# 💫 About Me
+
+🎓 Software Engineering student focused on **software development, problem-solving, and building practical applications**.
+
+💻 **Aspiring Full-Stack Developer** | Java Developer | MERN Stack Developer
+
+🚀 I enjoy turning ideas into working projects and learning through hands-on development.
 
 
 ## 🌐 Socials:
